@@ -12,7 +12,7 @@ Find anyone (designer or not) who explains how to build autonomous agents in an 
 
 ## Tools
 - Web search and reading public pages
-- Bluesky public search (free, no login)
+- Bluesky: public feeds of people it already found, plus Bluesky posts found via web search (free, no login)
 - `notebook.csv` (to avoid repeats)
 - The style checklist in `CLAUDE.md`
 

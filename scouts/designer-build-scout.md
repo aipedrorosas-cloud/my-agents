@@ -12,7 +12,7 @@ Find designers who publicly post or document how they build autonomous agents (a
 
 ## Tools
 - Web search and reading public pages
-- Bluesky public search (free, no login)
+- Bluesky: public feeds of people it already found, plus Bluesky posts found via web search (free, no login)
 - `notebook.csv` (to avoid repeats)
 - The rules in `CLAUDE.md`
 
