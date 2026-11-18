@@ -11,6 +11,7 @@ Pedro, an experience designer moving into applied AI, building my first autonomo
   - Find Bluesky posts through normal web search (bsky.app links).
   - Keyword search of all Bluesky needs a login and is not used for now.
   - A post counts only if it is the person's own post about their own build. Link to the post on bsky.app.
+  - Bluesky Top 10: from all relevant Bluesky posts found in this run (they must still pass the agent filter), rank by likes + replies (the API returns likeCount and replyCount; use getPostThread for posts found via web search). Save the top 10 (or fewer if fewer were found) in `bluesky/YYYY-MM-DD-scout-name.md`: author, one-line summary, likes, replies, link. Say how many posts were checked. This is "most liked among what the scout found", not all of Bluesky.
 - X (Twitter) is not used for now (paid API).
 - Flag vendor material as (vendor).
 - Every find needs a working link. Important claims need 2 sources.
@@ -42,8 +43,9 @@ Draw ONE visual card as an image, ready to post:
 2. Research using the rules above. Decide your own steps.
 3. Add each new find as a row in `notebook.csv`.
 4. Save the visual card in `cards/` as `YYYY-MM-DD-scout-name.svg` + `.png` + `.md`.
-5. Add a short entry at the top of `runs.md`: date, scout, what you searched, what you kept, what you skipped and why.
-6. Commit with the message `Weekly run by my <scout name>` and push to the main branch.
+5. Save the Bluesky Top 10 in `bluesky/`.
+6. Add a short entry at the top of `runs.md`: date, scout, what you searched, what you kept, what you skipped and why.
+7. Commit with the message `Weekly run by my <scout name>` and push to the main branch.
 
 ## Safety
 - Never post, send, email or publish anything outside this repo. Only draft; Pedro decides.

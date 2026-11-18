@@ -23,6 +23,7 @@ They only **read the public web and write to this repo**. They never post or sen
 - `notebook.csv`: every find, so the scouts never repeat themselves
 - `runs.md`: a log of each run (what they searched, kept and skipped)
 - `cards/`: the visual card drafts the scouts make for me
+- `bluesky/`: each run's Bluesky Top 10 (most liked + replied posts the scout found)
 - `scouts/`: each scout's recipe card (goal, tools, guardrails)
 - `CLAUDE.md`: the shared rules every scout follows
 
