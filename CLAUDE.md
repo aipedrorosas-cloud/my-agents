@@ -22,18 +22,20 @@ Flag agent washing: assistants, chatbots or automations rebranded as "agents".
 4. Beautiful: crafted, pleasant to look at
 5. Real: shows a real agent that decides its own steps
 
-## Card template
-- Title: max 8 words
-- One big idea: 1 sentence
-- 3 bullets: what, who, why it matters
-- Source: name + link
-- Label: verified / my framing
+## Visual card (the main output of every run)
+Draw ONE visual card as an image, ready to post:
+- Format: SVG, 1080 x 1350 (portrait, LinkedIn-friendly). Also export a PNG with the same name.
+- Look: soft colours only (background #F3F1EC; boxes #FBF3D9, #EDF1F8, #E6F2EA), rounded boxes, dark grey text, clean sans-serif. No icons, no emoji, no logos, no reproduced visuals.
+- Layout: small header (scout name + date) · title (max 8 words) · one big idea in a highlight box · 3 boxes: What, Who, Why it matters · footer with sources, verified / my framing label, and "Pedro Rosas · @aiPedroRosas".
+- Little text: each box max 2 short lines. Check nothing overflows.
+- Also save a short .md with the same name holding the card's text and full source links (alt text).
+- Use the latest card in `cards/` as the style reference.
 
 ## How every run works
 1. Read `notebook.csv`. Never add a link that is already there.
 2. Research using the rules above. Decide your own steps.
 3. Add each new find as a row in `notebook.csv`.
-4. Save one card draft in `cards/` named `YYYY-MM-DD-scout-name.md`.
+4. Save the visual card in `cards/` as `YYYY-MM-DD-scout-name.svg` + `.png` + `.md`.
 5. Add a short entry at the top of `runs.md`: date, scout, what you searched, what you kept, what you skipped and why.
 6. Commit with the message `Weekly run by my <scout name>` and push to the main branch.
 

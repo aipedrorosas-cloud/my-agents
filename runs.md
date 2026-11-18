@@ -16,7 +16,7 @@ Newest runs at the top.
   - Many "I built an agent" posts by developers or marketers: not designers.
   - NN/g "Vibe Architects" study: useful context, but research, not a designer's own build.
 - **Finding:** results are thin. Few designers document real autonomous agents, and the ones who do are text-heavy. Evidence for Pedro's visual-first gap.
-- **Card:** `cards/2026-11-18-designer-build-scout.md`
+- **Card:** `cards/2026-11-18-designer-build-scout.png` (visual) + `.md` (text and sources)
 
 ---
 
