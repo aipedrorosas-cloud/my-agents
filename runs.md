@@ -4,11 +4,11 @@ Newest runs at the top.
 
 ---
 
-## 2026-11-18 · Skills Thermometer · first scheduled run
+## 2026-11-18 · Skills Thermometer · first live run
 - **Searched:** web searches for service, UX, product, content, research and conversation designer roles in Melbourne and remote Australia; MYOB on Lever; NAB, Bupa, Australia Post, Coles, Medibank, VicGov (DGS, DEECA), University of Melbourne; Culture Amp on Greenhouse; UIUX Jobs Board (Australia list); Jobstralia, ZipRecruiter and Hatch copies.
 - **Kept (6 new ads):** MYOB Senior UX/UI Designer (AI Experiences, Melbourne); MYOB Senior Product Content Designer; NAB Senior Product Designer (x2, different domains); NAB Principal Product Designer; Cresta Conversational Designer, APAC (remote Australia, flagged vendor).
 - **Reading:** AI is core in 2 of the 6 new ads; the 4 NAB and content ads have no AI at all. Only Cresta mentions agents ("virtual agent solutions"), and they may be closer to chatbots. Across all 16 ads: AI core in 6, agents in 3.
-- **Same-day note:** this run fell on the same date as the test run, so `tally.py --run 2026-11-18` and the card count all 16 ads read today.
+- **Same-day note:** this run shares its date with the test run, so `tally.py --run 2026-11-18` returns all 16 ads. The card and this run's numbers count only the 6 new rows (top this run: Figma 5, Agile delivery 4, prototyping and stakeholder engagement 3). A second firing of the schedule the same day redrew the card this way and didn't search again, since the first pass had just read the market.
 - **Skipped, and why:**
   - Older than 90 days (date shown): MYOB Senior Service Designer (20 Jul), MYOB Senior Design Researcher (8 Aug), AustralianSuper Senior Service Designer (22 Jul), Datacom Senior Service Designer (6 Jul), Up Senior Product Designer (12 Aug), UniMelb Service Designer (Jul), MYOB Senior Conversational Designer (Mar), RACV Service Design Lead (AI) (2025), Bupa Service Designer, Experience Designer and Design & Content Ops Lead (Jan-Apr), Australia Post Senior Service Designer (2025), Talent International Senior Product Designer (URL stamp July 2026).
   - Sydney, not Melbourne: MYOB Principal AI Experience Designer (new Sydney ad), MYOB Senior UX/UI Designer (Sydney twin), MYOB Senior Service Designer - Embedded Finance, MYOB Design Lead - Mid-Market.
