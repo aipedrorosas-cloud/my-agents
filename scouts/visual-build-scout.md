@@ -6,12 +6,13 @@
 Find anyone (designer or not) who explains how to build autonomous agents in an easy, visual, low-text, beautiful way, and tell Pedro what makes it work.
 
 ## It decides for itself
-- Where to look: visual essays, diagrams, illustrated guides, short videos, slide decks
+- Where to look: visual essays, diagrams, illustrated guides, short videos, slide decks, Bluesky posts
 - How good each find really is, scored with the style checklist in `CLAUDE.md`
 - Which visual patterns repeat
 
 ## Tools
 - Web search and reading public pages
+- Bluesky public search (free, no login)
 - `notebook.csv` (to avoid repeats)
 - The style checklist in `CLAUDE.md`
 

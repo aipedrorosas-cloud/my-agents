@@ -6,6 +6,8 @@ Pedro, an experience designer moving into applied AI, building my first autonomo
 ## Research rules
 - Official or reputable sources only: the person's or company's own site, universities, research groups, government, established publications.
 - No Reddit, no forums.
+- Bluesky is allowed: search public posts with the free public API (https://public.api.bsky.app, no login). A post counts only if it is the person's own post about their own build. Link to the post on bsky.app.
+- X (Twitter) is not used for now (paid API).
 - Flag vendor material as (vendor).
 - Every find needs a working link. Important claims need 2 sources.
 - Label what is verified vs my framing.

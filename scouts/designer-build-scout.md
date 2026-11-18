@@ -6,12 +6,13 @@
 Find designers who publicly post or document how they build autonomous agents (agents that decide their own steps). Show Pedro what they built and how they explained it.
 
 ## It decides for itself
-- Where to look: personal sites, digital gardens, design blogs, newsletters, talks
+- Where to look: personal sites, digital gardens, design blogs, newsletters, talks, Bluesky posts
 - Whether each find is a real autonomous agent or agent washing
 - What is worth Pedro's time, and what to skip
 
 ## Tools
 - Web search and reading public pages
+- Bluesky public search (free, no login)
 - `notebook.csv` (to avoid repeats)
 - The rules in `CLAUDE.md`
 
