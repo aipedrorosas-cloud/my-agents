@@ -4,6 +4,23 @@ Newest runs at the top.
 
 ---
 
+## 2026-11-18 · Skills Thermometer · first scheduled run
+- **Searched:** web searches for service, UX, product, content, research and conversation designer roles in Melbourne and remote Australia; MYOB on Lever; NAB, Bupa, Australia Post, Coles, Medibank, VicGov (DGS, DEECA), University of Melbourne; Culture Amp on Greenhouse; UIUX Jobs Board (Australia list); Jobstralia, ZipRecruiter and Hatch copies.
+- **Kept (6 new ads):** MYOB Senior UX/UI Designer (AI Experiences, Melbourne); MYOB Senior Product Content Designer; NAB Senior Product Designer (x2, different domains); NAB Principal Product Designer; Cresta Conversational Designer, APAC (remote Australia, flagged vendor).
+- **Reading:** AI is core in 2 of the 6 new ads; the 4 NAB and content ads have no AI at all. Only Cresta mentions agents ("virtual agent solutions"), and they may be closer to chatbots. Across all 16 ads: AI core in 6, agents in 3.
+- **Same-day note:** this run fell on the same date as the test run, so `tally.py --run 2026-11-18` and the card count all 16 ads read today.
+- **Skipped, and why:**
+  - Older than 90 days (date shown): MYOB Senior Service Designer (20 Jul), MYOB Senior Design Researcher (8 Aug), AustralianSuper Senior Service Designer (22 Jul), Datacom Senior Service Designer (6 Jul), Up Senior Product Designer (12 Aug), UniMelb Service Designer (Jul), MYOB Senior Conversational Designer (Mar), RACV Service Design Lead (AI) (2025), Bupa Service Designer, Experience Designer and Design & Content Ops Lead (Jan-Apr), Australia Post Senior Service Designer (2025), Talent International Senior Product Designer (URL stamp July 2026).
+  - Sydney, not Melbourne: MYOB Principal AI Experience Designer (new Sydney ad), MYOB Senior UX/UI Designer (Sydney twin), MYOB Senior Service Designer - Embedded Finance, MYOB Design Lead - Mid-Market.
+  - Closed with text gone: ANZ Senior Designer (Docklands), Medibank Product Designer, Coles Product Designer, VicGov Content Strategy & Design Lead, DGS UX Designer and Content Designer, DEECA UX/UI Designer, REA Product Designer, Culture Amp Product Designer - Unified Systems.
+  - Year unclear on Jobstralia copies (shows "3 October", footer 2025): Brandbank UX Designer, Senior UX Designer (VPS5.1) via Talent, Epworth UI/UX Designer, beBee UX listing.
+  - University of Melbourne UX Researcher: no date and no open/closed status on the page.
+  - designproject.io, IxDF, Hatch summaries: AI-rewritten, used only to discover roles.
+- **Couldn't do (noted, not worked around):** the UIUX Jobs Board Melbourne page (needed a link permission nobody was there to give; the Australia page worked). Culture Amp's Greenhouse job pages redirected to the board index with no design roles. Seek, LinkedIn, Indeed, Built In not tried (block robots).
+- **Card:** `cards/2026-11-18-skills-thermometer.png` (visual) + `.md` (text and sources)
+
+---
+
 ## 2026-11-18 · Skills Thermometer · first test run (Pedro watching)
 - **Searched:** a sweep of about 54 Melbourne career sites and job boards to build `thermometer/watchlist.md`; then the readable ones (MYOB and Envato on Lever, Medibank, RACV, ANZ, UIUX Jobs Board) plus web searches for service, AI and conversation designer roles in Melbourne.
 - **Kept (10 ads):** MYOB Principal AI Experience Designer; Envato Senior Product Designer - Visual Craft & AI; Hipster Whale Senior UX Designer; Squiz Senior Product Designer (closed, text still readable); Medibank Knowledge & Content Design Lead; Medibank Knowledge Content Designer; RACV Content Designer; Seers Digital Lead Service Designer; AI Designer via Nigel Frank (employer unnamed); Atlassian Senior Product Designer, Administration.

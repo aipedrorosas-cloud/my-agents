@@ -22,12 +22,15 @@ Where the Skills Thermometer looks. Tested 18 Nov 2026. Update when a source sta
 
 ## 2. Web search only (portal blocks robots, but single ads are indexed)
 Search the company + role, then read the employer's page or a readable copy (ZipRecruiter, Jobstralia, Employment Hero, Lever, Greenhouse, Workable).
-- Banks: CommBank (Workday), NAB (keyword search ignored), Westpac
+- Banks: CommBank (Workday), NAB (keyword search ignored, but single job pages at careers.nab.com.au/mob/... read fine and show no date), Westpac
 - Super: AustralianSuper (Oracle), Aware Super (Cornerstone), UniSuper, Cbus, Insignia Financial, AMP
 - Insurance and health: Bupa, IAG, Suncorp, TAL, AFCA
 - Retail: Woolworths, Kmart, Bunnings
 - Others: Telstra (Workday), Australia Post, REA Group, Thoughtworks, Deloitte Digital
 - Government: careers.vic.gov.au (job pages only), TAC
+
+- AI vendors hiring conversation designers in Australia: Cresta (Greenhouse, remote APAC). Flag as vendor.
+- Jobstralia copies: often show a day but no year (footer says 2025). Count only when the year is clear.
 
 ## 3. Don't use
 - Seek, LinkedIn, Indeed, Jora, Built In, FinTech Australia jobs, APS Jobs: block robots
