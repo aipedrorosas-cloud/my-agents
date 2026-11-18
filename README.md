@@ -26,6 +26,8 @@ They only **read the public web and write to this repo**. They never post or sen
 - `bluesky/`: each run's Bluesky Top 10 (most liked + replied posts the scout found)
 - `scouts/`: each scout's recipe card (goal, tools, guardrails)
 - `CLAUDE.md`: the shared rules every scout follows
+- `LEARNING-LOG.md`: every change I made, and what I learned
+- `story/`: a visual diary of the build, screenshot by screenshot
 
 ---
 
