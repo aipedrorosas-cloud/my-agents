@@ -4,6 +4,20 @@ Newest runs at the top.
 
 ---
 
+## 2026-11-18 · Skills Thermometer · first test run (Pedro watching)
+- **Searched:** a sweep of about 54 Melbourne career sites and job boards to build `thermometer/watchlist.md`; then the readable ones (MYOB and Envato on Lever, Medibank, RACV, ANZ, UIUX Jobs Board) plus web searches for service, AI and conversation designer roles in Melbourne.
+- **Kept (10 ads):** MYOB Principal AI Experience Designer; Envato Senior Product Designer - Visual Craft & AI; Hipster Whale Senior UX Designer; Squiz Senior Product Designer (closed, text still readable); Medibank Knowledge & Content Design Lead; Medibank Knowledge Content Designer; RACV Content Designer; Seers Digital Lead Service Designer; AI Designer via Nigel Frank (employer unnamed); Atlassian Senior Product Designer, Administration.
+- **Reading:** AI is core in 4 ads and mentioned in 2. Agents in only 2. Stakeholder engagement is in all 10.
+- **Skipped, and why:**
+  - ANZ's 4 new design roles (12 Nov): Wellington, NZ, not Melbourne.
+  - Mantel Senior Service Designer and Senior Product Designer, Medibank Product Design Chapter Lead: ads already closed and their text gone. Proof that skills must be saved on first read.
+  - Older ads still showing in search (Bupa Conversational Designer – Agentic, RACV Conversational Designer, Tomoro AI Experience Designer, CBA AI-engineering roles): posted more than 90 days ago.
+  - designproject.io and IxDF versions of ads: AI-rewritten or generic tags, not the employer's words.
+- **Couldn't do (noted, not worked around):** Seek, LinkedIn, Indeed, Built In, CommBank and Telstra (Workday), AustralianSuper (Oracle), Aware Super, Cbus: block robots or load jobs with code.
+- **Card:** `cards/2026-11-18-skills-thermometer-test.png` (visual) + `.md` (text and sources)
+
+---
+
 ## 2026-11-18 · Designer Build Scout · Live test (scheduled run)
 - **Searched:** designers writing "I built" agent stories (Substack, studio blogs, portfolios); Claude Code / Figma agent builds by designers; design newsletters (Designlab Brief) for pointers; second sources for the best find (Web Directions Conffab, Smashing Magazine).
 - **Kept (2):**

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Inter, -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<rect width="1080" height="1350" fill="#F3F1EC"/>
+<text x="80" y="110" font-size="26" fill="#6B6B6B" letter-spacing="2">SKILLS THERMOMETER · 18 NOV 2026</text>
+<text x="80" y="200" font-size="68" font-weight="700" fill="#2B2B2B">What Melbourne asks</text>
+<text x="80" y="278" font-size="68" font-weight="700" fill="#2B2B2B">designers for</text>
+<text x="80" y="330" font-size="26" fill="#6B6B6B">Top 10 skills in 10 design job ads</text>
+<rect x="80" y="365" width="920" height="625" rx="32" fill="#FFFFFF" opacity="0.6"/>
+<text x="480" y="425" font-size="22" fill="#2B2B2B" text-anchor="end">Stakeholder engagement &amp; influence</text>
+<rect x="500" y="400" width="400" height="36" rx="12" fill="#EDF1F8" stroke="#C9D3E3" stroke-width="2"/>
+<text x="914" y="426" font-size="22" font-weight="700" fill="#3A3A3A">10</text>
+<text x="480" y="479" font-size="22" fill="#2B2B2B" text-anchor="end">Figma &amp; design tools</text>
+<rect x="500" y="454" width="280" height="36" rx="12" fill="#EDF1F8" stroke="#C9D3E3" stroke-width="2"/>
+<text x="794" y="480" font-size="22" font-weight="700" fill="#3A3A3A">7</text>
+<text x="480" y="533" font-size="22" fill="#2B2B2B" text-anchor="end">User research &amp; testing</text>
+<rect x="500" y="508" width="280" height="36" rx="12" fill="#EDF1F8" stroke="#C9D3E3" stroke-width="2"/>
+<text x="794" y="534" font-size="22" font-weight="700" fill="#3A3A3A">7</text>
+<text x="480" y="587" font-size="22" fill="#2B2B2B" text-anchor="end">Prototyping</text>
+<rect x="500" y="562" width="240" height="36" rx="12" fill="#EDF1F8" stroke="#C9D3E3" stroke-width="2"/>
+<text x="754" y="588" font-size="22" font-weight="700" fill="#3A3A3A">6</text>
+<text x="480" y="641" font-size="22" fill="#2B2B2B" text-anchor="end">Communication &amp; storytelling</text>
+<rect x="500" y="616" width="240" height="36" rx="12" fill="#EDF1F8" stroke="#C9D3E3" stroke-width="2"/>
+<text x="754" y="642" font-size="22" font-weight="700" fill="#3A3A3A">6</text>
+<text x="480" y="695" font-size="22" fill="#2B2B2B" text-anchor="end">Data &amp; analytics</text>
+<rect x="500" y="670" width="240" height="36" rx="12" fill="#EDF1F8" stroke="#C9D3E3" stroke-width="2"/>
+<text x="754" y="696" font-size="22" font-weight="700" fill="#3A3A3A">6</text>
+<text x="480" y="749" font-size="22" fill="#2B2B2B" text-anchor="end">Visual &amp; interaction craft</text>
+<rect x="500" y="724" width="200" height="36" rx="12" fill="#EDF1F8" stroke="#C9D3E3" stroke-width="2"/>
+<text x="714" y="750" font-size="22" font-weight="700" fill="#3A3A3A">5</text>
+<text x="480" y="803" font-size="22" fill="#2B2B2B" text-anchor="end">Accessibility &amp; inclusive design</text>
+<rect x="500" y="778" width="200" height="36" rx="12" fill="#EDF1F8" stroke="#C9D3E3" stroke-width="2"/>
+<text x="714" y="804" font-size="22" font-weight="700" fill="#3A3A3A">5</text>
+<text x="480" y="857" font-size="22" fill="#2B2B2B" text-anchor="end" font-weight="700">Designing AI products</text>
+<rect x="500" y="832" width="160" height="36" rx="12" fill="#E6F2EA" stroke="#A9CDB5" stroke-width="2"/>
+<text x="674" y="858" font-size="22" font-weight="700" fill="#3A3A3A">4</text>
+<text x="480" y="911" font-size="22" fill="#2B2B2B" text-anchor="end" font-weight="700">AI tools in design work</text>
+<rect x="500" y="886" width="160" height="36" rx="12" fill="#E6F2EA" stroke="#A9CDB5" stroke-width="2"/>
+<text x="674" y="912" font-size="22" font-weight="700" fill="#3A3A3A">4</text>
+<rect x="500" y="952" width="28" height="20" rx="6" fill="#E6F2EA" stroke="#A9CDB5" stroke-width="2"/>
+<text x="538" y="969" font-size="20" fill="#6B6B6B">AI skill</text>
+<rect x="660" y="952" width="28" height="20" rx="6" fill="#EDF1F8" stroke="#C9D3E3" stroke-width="2"/>
+<text x="698" y="969" font-size="20" fill="#6B6B6B">number of ads (of 10)</text>
+<rect x="80" y="1010" width="920" height="150" rx="28" fill="#FBF3D9"/>
+<text x="540" y="1075" font-size="38" fill="#2B2B2B" text-anchor="middle">AI is in 6 of 10 ads.</text>
+<text x="540" y="1128" font-size="38" fill="#2B2B2B" text-anchor="middle">Agents? Only 2 so far.</text>
+<text x="80" y="1210" font-size="28" fill="#3A3A3A"><tspan font-weight="700">Read:</tspan> 10 public job ads, 9 employers</text>
+<text x="80" y="1250" font-size="20" fill="#6B6B6B">Sources: each ad is linked in thermometer/ads.csv (github.com/aipedrorosas-cloud/my-agents)</text>
+<text x="80" y="1282" font-size="20" fill="#6B6B6B">Counts verified by script · skill grouping and big idea = my framing · a sample, not all ads</text>
+<text x="80" y="1318" font-size="20" font-weight="700" fill="#6B6B6B">Pedro Rosas · @aiPedroRosas</text>
+</svg>

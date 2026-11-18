@@ -48,9 +48,11 @@ Draw ONE visual card as an image, ready to post:
 5. Save the Bluesky Top 10 in `bluesky/`.
 6. Add a short entry at the top of `runs.md`: date, scout, what you searched, what you kept, what you skipped and why.
 7. Commit with the message `Weekly run by my <scout name>` and push to the main branch.
+8. Some scouts keep their own memory and steps. If a scout's recipe card in `scouts/` says so, it replaces steps 1, 3 and 5 for that scout.
 
 ## Safety
 - Never post, send, email or publish anything outside this repo. Only draft; Pedro decides.
 - Public information only. Do not collect personal contact details.
+- Job ads: never apply, never contact anyone, never save recruiter names, emails or phone numbers.
 - Inspiration, not copying: describe patterns, never reproduce someone's work or visuals.
 - Never ask for approval: if a step is not allowed by these rules, skip it and note why in `runs.md`.
