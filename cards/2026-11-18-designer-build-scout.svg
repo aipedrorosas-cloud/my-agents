@@ -1,32 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif">
   <rect width="1080" height="1350" fill="#F3F1EC"/>
 
-  <text x="80" y="120" font-size="26" fill="#6B6B6B" letter-spacing="2">DESIGNER BUILD SCOUT · 18 NOV 2026</text>
+  <text x="80" y="110" font-size="26" fill="#6B6B6B" letter-spacing="2">DESIGNER BUILD SCOUT · 18 NOV 2026</text>
+  <text x="80" y="210" font-size="72" font-weight="700" fill="#2B2B2B">Designers' first agents</text>
+  <text x="80" y="292" font-size="72" font-weight="700" fill="#2B2B2B">are mostly words</text>
 
-  <text x="80" y="230" font-size="72" font-weight="700" fill="#2B2B2B">Designers' first agents</text>
-  <text x="80" y="315" font-size="72" font-weight="700" fill="#2B2B2B">are mostly words</text>
+  <rect x="80" y="360" width="920" height="520" rx="32" fill="#FFFFFF" opacity="0.6"/>
 
-  <rect x="80" y="370" width="920" height="170" rx="28" fill="#FBF3D9"/>
-  <text x="120" y="440" font-size="36" fill="#2B2B2B">Designers building agents mostly <tspan font-weight="700">write</tspan>:</text>
-  <text x="120" y="495" font-size="36" fill="#2B2B2B">rules, roles and judgement, in plain language.</text>
+  <rect x="150" y="470" width="170" height="220" rx="16" fill="#EDF1F8" stroke="#C9D3E3" stroke-width="2"/>
+  <rect x="130" y="450" width="170" height="220" rx="16" fill="#EDF1F8" stroke="#C9D3E3" stroke-width="2"/>
+  <rect x="110" y="430" width="170" height="220" rx="16" fill="#FFFFFF" stroke="#C9D3E3" stroke-width="2"/>
+  <rect x="135" y="470" width="120" height="12" rx="6" fill="#C9D3E3"/>
+  <rect x="135" y="500" width="100" height="12" rx="6" fill="#C9D3E3"/>
+  <rect x="135" y="530" width="115" height="12" rx="6" fill="#C9D3E3"/>
+  <rect x="135" y="560" width="80" height="12" rx="6" fill="#C9D3E3"/>
+  <rect x="135" y="590" width="105" height="12" rx="6" fill="#C9D3E3"/>
+  <text x="200" y="760" font-size="28" font-weight="700" fill="#2B2B2B" text-anchor="middle">Rules in</text>
+  <text x="200" y="796" font-size="28" font-weight="700" fill="#2B2B2B" text-anchor="middle">plain words</text>
 
-  <rect x="80" y="580" width="920" height="170" rx="28" fill="#EDF1F8"/>
-  <text x="120" y="645" font-size="30" font-weight="700" fill="#2B2B2B">What</text>
-  <text x="120" y="695" font-size="30" fill="#3A3A3A">A design assistant made of markdown files. Five small</text>
-  <text x="120" y="735" font-size="30" fill="#3A3A3A">agents, each with one job.</text>
+  <line x1="345" y1="560" x2="420" y2="560" stroke="#8A8A8A" stroke-width="5" stroke-linecap="round"/>
+  <polygon points="420,546 444,560 420,574" fill="#8A8A8A"/>
 
-  <rect x="80" y="780" width="920" height="170" rx="28" fill="#EDF1F8"/>
-  <text x="120" y="845" font-size="30" font-weight="700" fill="#2B2B2B">Who</text>
-  <text x="120" y="895" font-size="30" fill="#3A3A3A">Dianne Alter, Head of Design, The Design Project.</text>
-  <text x="120" y="935" font-size="30" fill="#3A3A3A">Stefan Imhoff, design engineer.</text>
+  <circle cx="555" cy="560" r="105" fill="#FBF3D9" stroke="#E8D9A6" stroke-width="3"/>
+  <text x="555" y="555" font-size="40" font-weight="700" fill="#2B2B2B" text-anchor="middle">agent</text>
+  <text x="555" y="592" font-size="22" fill="#5A5A5A" text-anchor="middle">decides its steps</text>
+  <text x="555" y="760" font-size="28" font-weight="700" fill="#2B2B2B" text-anchor="middle">Goal, not</text>
+  <text x="555" y="796" font-size="28" font-weight="700" fill="#2B2B2B" text-anchor="middle">steps</text>
 
-  <rect x="80" y="980" width="920" height="170" rx="28" fill="#E6F2EA"/>
-  <text x="120" y="1045" font-size="30" font-weight="700" fill="#2B2B2B">Why it matters</text>
-  <text x="120" y="1095" font-size="30" fill="#3A3A3A">Writing intent is a design skill. And almost nobody</text>
-  <text x="120" y="1135" font-size="30" fill="#3A3A3A">documents these builds visually yet.</text>
+  <line x1="668" y1="560" x2="735" y2="560" stroke="#8A8A8A" stroke-width="5" stroke-linecap="round"/>
+  <polygon points="735,546 759,560 735,574" fill="#8A8A8A"/>
 
-  <text x="80" y="1210" font-size="22" fill="#6B6B6B">Sources: designproject.io/blog/ai-design-assistant</text>
-  <text x="80" y="1242" font-size="22" fill="#6B6B6B">stefanimhoff.de/writing/guide-to-agentic-coding</text>
-  <text x="80" y="1274" font-size="22" fill="#6B6B6B">Finds verified from their own posts · "almost nobody visually" is my framing</text>
+  <rect x="780" y="420" width="190" height="44" rx="14" fill="#E6F2EA"/>
+  <text x="875" y="450" font-size="21" fill="#2B2B2B" text-anchor="middle">accessibility</text>
+  <rect x="780" y="476" width="190" height="44" rx="14" fill="#E6F2EA"/>
+  <text x="875" y="506" font-size="21" fill="#2B2B2B" text-anchor="middle">design system</text>
+  <rect x="780" y="532" width="190" height="44" rx="14" fill="#E6F2EA"/>
+  <text x="875" y="562" font-size="21" fill="#2B2B2B" text-anchor="middle">performance</text>
+  <rect x="780" y="588" width="190" height="44" rx="14" fill="#E6F2EA"/>
+  <text x="875" y="618" font-size="21" fill="#2B2B2B" text-anchor="middle">architecture</text>
+  <rect x="780" y="644" width="190" height="44" rx="14" fill="#E6F2EA"/>
+  <text x="875" y="674" font-size="21" fill="#2B2B2B" text-anchor="middle">quality check</text>
+  <text x="875" y="760" font-size="28" font-weight="700" fill="#2B2B2B" text-anchor="middle">Small helpers,</text>
+  <text x="875" y="796" font-size="28" font-weight="700" fill="#2B2B2B" text-anchor="middle">one job each</text>
+
+  <rect x="80" y="920" width="920" height="150" rx="28" fill="#FBF3D9"/>
+  <text x="540" y="985" font-size="38" fill="#2B2B2B" text-anchor="middle">Writing intent is a <tspan font-weight="700">design skill</tspan>.</text>
+  <text x="540" y="1038" font-size="38" fill="#2B2B2B" text-anchor="middle">Almost nobody shows it visually.</text>
+
+  <text x="80" y="1130" font-size="28" fill="#3A3A3A"><tspan font-weight="700">Built by:</tspan> Dianne Alter · Stefan Imhoff</text>
+
+  <text x="80" y="1205" font-size="22" fill="#6B6B6B">Sources: designproject.io/blog/ai-design-assistant</text>
+  <text x="80" y="1237" font-size="22" fill="#6B6B6B">stefanimhoff.de/writing/guide-to-agentic-coding</text>
+  <text x="80" y="1269" font-size="22" fill="#6B6B6B">Builds verified from their own posts · "almost nobody visually" is my framing</text>
   <text x="80" y="1310" font-size="22" font-weight="700" fill="#2B2B2B">Pedro Rosas · @aiPedroRosas</text>
 </svg>

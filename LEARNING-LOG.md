@@ -17,3 +17,5 @@ Every change to my agents, and **why**. Newest at the top.
 | Added Bluesky (free) | Fresher, more visual posts | Tested it: reading feeds works, keyword search needs a login. **Test before promising** |
 | Added a Bluesky Top 10 (likes + replies) | See what resonates | "Most liked" only means most liked **among what the agent found** |
 | Parked X (paid API) | Keep it $0 | Every data source has a price and an access rule |
+| Taste test: finds = useful; card = make it **more visual** | Text-heavy cards don't feel like me | Cards are now **diagram first, words second** |
+| "Partly autonomous" builds now count, with a label | I was unsure; including them finds more designers | When unsure, include and **label** rather than exclude |

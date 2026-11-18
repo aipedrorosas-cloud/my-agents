@@ -21,6 +21,7 @@ Pedro, an experience designer moving into applied AI, building my first autonomo
 An autonomous agent is an AI that you give a goal, not steps, and that decides how to reach it by using tools on your behalf, within limits you set.
 Test: "Who decides the next step, the builder or the AI?" Builder = workflow or chatbot. AI = agent.
 Flag agent washing: assistants, chatbots or automations rebranded as "agents".
+Partly autonomous builds (the agent plans its own steps but pauses to ask before acting) DO count: keep them and label them "partly autonomous" in `notebook.csv` and on the card.
 
 ## Style checklist (score each 1-5, total out of 25)
 1. Easy: a designer gets it in 2 minutes
@@ -33,8 +34,9 @@ Flag agent washing: assistants, chatbots or automations rebranded as "agents".
 Draw ONE visual card as an image, ready to post:
 - Format: SVG, 1080 x 1350 (portrait, LinkedIn-friendly). Also export a PNG with the same name.
 - Look: soft colours only (background #F3F1EC; boxes #FBF3D9, #EDF1F8, #E6F2EA), rounded boxes, dark grey text, clean sans-serif. No icons, no emoji, no logos, no reproduced visuals.
-- Layout: small header (scout name + date) · title (max 8 words) · one big idea in a highlight box · 3 boxes: What, Who, Why it matters · footer with sources, verified / my framing label, and "Pedro Rosas · @aiPedroRosas".
-- Little text: each box max 2 short lines. Check nothing overflows.
+- Diagram first, words second: the middle of the card is a simple diagram made of shapes (boxes, circles, arrows, stacks) that explains the find at a glance, with short labels (max 3 words each).
+- Layout: small header (scout name + date) · title (max 8 words) · the diagram (about 40% of the card) · one big idea in a highlight box (max 2 short lines) · "Built by:" names · footer with sources, verified / my framing label, and "Pedro Rosas · @aiPedroRosas".
+- As little text as possible. Render the PNG and check nothing overflows.
 - Also save a short .md with the same name holding the card's text and full source links (alt text).
 - Use the latest card in `cards/` as the style reference.
 
