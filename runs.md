@@ -4,6 +4,23 @@ Newest runs at the top.
 
 ---
 
+## 2026-11-18 · Designer Build Scout · Live test (scheduled run)
+- **Searched:** designers writing "I built" agent stories (Substack, studio blogs, portfolios); Claude Code / Figma agent builds by designers; design newsletters (Designlab Brief) for pointers; second sources for the best find (Web Directions Conffab, Smashing Magazine).
+- **Kept (2):**
+  - MC Dean: Designpowers, 10 specialist design agents sharing one design state, open source. Partly autonomous (Auto mode runs on its own, stops when reviewers disagree). **Card find.**
+  - Thomas Weaver (Futurice): Figma agent skills for DesignOps chores. Agent autonomy unclear from the post; consultancy blog, so flagged as vendor.
+- **Skipped, and why:**
+  - Miriam Reichert (UX Studio): flow-mapping agent into Miro. A UX researcher, not a designer, and the post doesn't show whether the AI chooses its own steps.
+  - KC ("Designer" agentic UX harness, horizon Substack): good build with a video demo, but the author's name and role aren't stated, so couldn't confirm a designer.
+  - Keisuke Shingu: designed the interface for a company's agent platform; didn't build an agent himself.
+  - Agentic UX explainers and predictions (Jakob Nielsen, AX-designer articles): about designing for agents, not designers' own builds.
+- **Couldn't do (noted, not worked around):**
+  - Bluesky: `public.api.bsky.app` blocked by this run's network policy (403), and a bsky.app web search was refused. No Top 10 this run; see `bluesky/2026-11-18-designer-build-scout-live-test.md`.
+  - Some pages needed a link permission nobody was there to give: the Designpowers GitHub repo and KC's About page weren't opened. Card claims rest on her post plus Conffab.
+- **Card:** `cards/2026-11-18-designer-build-scout-live-test.png` (visual) + `.md` (text and sources)
+
+---
+
 ## 2026-11-18 · Designer Build Scout · first test run (Pedro watching)
 - **Searched:** designers writing about building their own agents; Claude Code and Cowork build stories; design-engineer digital gardens; NN/g research on non-developers building agents.
 - **Kept (2):**
