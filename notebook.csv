@@ -1,1 +1,3 @@
 date_found,scout,name_or_title,link,designer,real_agent,style_score,pattern_to_borrow,used_in_card
+2026-11-18,Designer Build Scout,"Dianne Alter (Head of Design, The Design Project): a personal AI design assistant",https://designproject.io/blog/ai-design-assistant/,Y,Partial: it pauses and asks; she makes the decisions,14,An agent built mostly from plain-language markdown files (critique methods; preferences; lessons),Y
+2026-11-18,Designer Build Scout,"Stefan Imhoff (design engineer): A Design Engineer's Guide to Agentic Coding",https://stefanimhoff.de/writing/guide-to-agentic-coding/,Y,Yes: specialist subagents inside Claude Code's agent loop,10,One small agent per job (accessibility; design system; performance; QA),Y
