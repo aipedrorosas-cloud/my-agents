@@ -4,6 +4,23 @@ Newest runs at the top.
 
 ---
 
+## 2026-11-20 · Skills Thermometer · weekly run
+- **Searched:** web searches for service, product, UX, content, research and conversation / AI experience designer roles in Melbourne and remote Australia; watchlist lists for MYOB and Envato (Lever), Medibank, RACV, Coles, Culture Amp (Greenhouse), VicGov People Careers, ANZ and UIUX Jobs Board (Melbourne); new discovery list jobs.uxjobs.io (Melbourne); servicedesignjobs.com; Salt (welovesalt.com) recruiter ads; Bupa.
+- **Kept (4 new ads):** Up (Ferocia) Product Designer; OpenTable Senior Product Designer - Private Dining; Easygo Senior Product Designer - KICK; Envato Product Designer - Visual Craft & AI (remote AU & NZ, mid-level twin of the Senior ad already saved).
+- **Reading:** AI shows up in 3 of 4 new ads, but mostly as "use AI tools" (OpenTable names Cursor, Figma Make and Claude) or a passing interest (Easygo). Only Envato makes AI core. No new ad asks for agents or conversational design. Fewer than 5 ads, so the card shows the all-time Top 10 (20 ads, 14 employers).
+- **Skipped, and why:**
+  - Only an excerpt readable (employer portal loads with code; the jobs.uxjobs.io copies are cut short): AMP UX/UI Designer (North), Iress Product Designer (Workday), AustralianSuper Senior Product Designer and Lead Product Designer (Oracle). The AustralianSuper Lead excerpt does mention "responsible, human-centred uses of AI and automation". Worth retrying if a full copy appears.
+  - Law Institute Victoria UX Design Lead (BambooHR): only meta tags came back, no ad body.
+  - Closed: Victoria Legal Aid Senior Service Designer and Summer Foundation Service Designer (expired 23 Oct); Atari / Hipster Whale Senior UX Designer (Mobile) (closed 1 Nov; same role as the Hipster Whale ad already saved); Bupa Content Designer (ended Apr 2026); four Salt recruiter ads (UX Researcher, Product Designer, CX Researcher, UI/UX Designer, all "applications closed"); DGS Content Designer (filled); Portable Senior Product Designer (removed).
+  - Older than 90 days: Cadmus Senior Product Designer (about 126 days).
+  - Not design roles: RACV Digital Content Producer (x2), DTP Senior Advisor, HR Service Design and Delivery, Coles and DTP product manager roles, Envato Content Creator.
+  - Already saved: MYOB Principal AI Experience Designer, Envato Senior Product Designer, Hipster Whale Senior UX Designer.
+  - designproject.io and marketingmonk copies: AI-rewritten aggregators, used only to discover.
+- **Couldn't do (noted, not worked around):** ANZ careers search now refuses robots (robots_disallowed). aijobsaustralia.com.au loads its list with code, so no roles came back. Seek, LinkedIn, Indeed not tried (block robots).
+- **Card:** `cards/2026-11-20-skills-thermometer.png` (visual, all-time Top 10) + `.md` (text and sources)
+
+---
+
 ## 2026-11-18 · Skills Thermometer · first live run
 - **Searched:** web searches for service, UX, product, content, research and conversation designer roles in Melbourne and remote Australia; MYOB on Lever; NAB, Bupa, Australia Post, Coles, Medibank, VicGov (DGS, DEECA), University of Melbourne; Culture Amp on Greenhouse; UIUX Jobs Board (Australia list); Jobstralia, ZipRecruiter and Hatch copies.
 - **Kept (6 new ads):** MYOB Senior UX/UI Designer (AI Experiences, Melbourne); MYOB Senior Product Content Designer; NAB Senior Product Designer (x2, different domains); NAB Principal Product Designer; Cresta Conversational Designer, APAC (remote Australia, flagged vendor).

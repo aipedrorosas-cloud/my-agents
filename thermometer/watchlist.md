@@ -1,6 +1,6 @@
 # Watchlist
 
-Where the Skills Thermometer looks. Tested 18 Nov 2026. Update when a source starts or stops working.
+Where the Skills Thermometer looks. Tested 18 Nov 2026, updated 20 Nov 2026. Update when a source starts or stops working.
 
 ## 1. Read directly (job list works)
 - ANZ: https://careers.anz.com/search/?q=designer (check location: many are NZ)
@@ -19,6 +19,7 @@ Where the Skills Thermometer looks. Tested 18 Nov 2026. Update when a source sta
 - UIUX Jobs Board (Melbourne): https://uiuxjobsboard.com/design-jobs/melbourne
 - AirTree jobs: https://jobs.airtree.vc/jobs
 - Blackbird jobs: https://jobs.blackbird.vc/jobs
+- UX Jobs (Melbourne list, added 20 Nov 2026): https://jobs.uxjobs.io/ux-jobs-melbourne/ . Good for discovery and gives the employer's original link; its own job pages are cut-short excerpts, so read the original.
 
 ## 2. Web search only (portal blocks robots, but single ads are indexed)
 Search the company + role, then read the employer's page or a readable copy (ZipRecruiter, Jobstralia, Employment Hero, Lever, Greenhouse, Workable).
@@ -33,6 +34,8 @@ Search the company + role, then read the employer's page or a readable copy (Zip
 - Jobstralia copies: often show a day but no year (footer says 2025). Count only when the year is clear.
 
 ## 3. Don't use
+- ANZ careers search: refused robots on 20 Nov 2026 (worked on 18 Nov). Find single ANZ ads by web search instead.
+- aijobsaustralia.com.au: list loads with code, nothing readable (20 Nov 2026)
 - Seek, LinkedIn, Indeed, Jora, Built In, FinTech Australia jobs, APS Jobs: block robots
 - designproject.io: rewrites ads with AI notes and guessed salaries. Use only to discover a role, then find the real ad
 - IxDF jobs: blocked, hides company names, generic skill tags
