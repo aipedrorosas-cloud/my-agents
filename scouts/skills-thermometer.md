@@ -1,6 +1,6 @@
 # Skills Thermometer
 
-**Runs:** monthly, on the last Friday of the month, 10:41am (Melbourne time). Parked from weekly on 20 Nov 2026 so Pedro can focus on agents in super.
+**Runs:** monthly, on the last Friday of the month, 10:41am (Melbourne time). Parked from weekly on 20 Nov 2026 so Pedro can focus on agents in super. First monthly run: 25 Dec 2026.
 
 **Replaces steps 1, 3 and 5 of `CLAUDE.md`:** this scout uses its own memory in `thermometer/` (not `notebook.csv`) and makes no Bluesky Top 10.
 
