@@ -1,6 +1,6 @@
 # Skills Thermometer
 
-**Runs:** weekly, Friday morning (Melbourne time)
+**Runs:** monthly, on the last Friday of the month, 10:41am (Melbourne time). Parked from weekly on 20 Nov 2026 so Pedro can focus on agents in super.
 
 **Replaces steps 1, 3 and 5 of `CLAUDE.md`:** this scout uses its own memory in `thermometer/` (not `notebook.csv`) and makes no Bluesky Top 10.
 
@@ -31,13 +31,13 @@ Track which skills Melbourne employers ask for in UX, service, product, content,
 
 ## Each run
 1. Read `thermometer/watchlist.md`, `thermometer/skill-map.md` and `thermometer/ads.csv`.
-2. Find new ads (aim for 5-10 a week; fewer is fine, the market is small). Read each ad in full.
+2. Find new ads (aim for 8-15 a month; fewer is fine, the market is small). Read each ad in full.
 3. Add one row per ad to `ads.csv`. Map its skills to the skill map; add a new skill to the map only when nothing fits, with the employer's wording as the example.
 4. Run `python3 thermometer/tally.py` (all-time) and `python3 thermometer/tally.py --run YYYY-MM-DD` (this run).
 5. Card: this run's Top 10 skills (or all-time Top 10 if the run found fewer than 5 ads; say so on the card) as a bar diagram plus one big idea about AI / agents. `python3 thermometer/card.py --run YYYY-MM-DD --idea "line one" "line two"` draws it (add `--all-time` for the all-time Top 10); check the PNG. Save as `cards/YYYY-MM-DD-skills-thermometer.svg` + `.png` + `.md`.
 6. Update `thermometer/watchlist.md` if a source started or stopped working.
 7. Add an entry at the top of `runs.md`: sources tried, ads kept, skipped and why, sites that couldn't be read.
-8. Commit with the message `Weekly run by my Skills Thermometer` and push to main.
+8. Commit with the message `Monthly run by my Skills Thermometer` and push to main.
 - No Bluesky Top 10 for this scout (job ads aren't on Bluesky). No rows in `notebook.csv` (that is for the build scouts).
 
 ## Taste test

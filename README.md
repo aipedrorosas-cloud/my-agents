@@ -12,7 +12,7 @@ I'm Pedro, an experience designer moving into applied AI. This repo is where my 
 |---|---|---|
 | **Designer Build Scout** | Designers who document how they build autonomous agents | Weekly |
 | **Visual Build Scout** | Anyone explaining agent-building in an easy, visual, beautiful way | Every 2 weeks |
-| **Skills Thermometer** | Which skills Melbourne job ads ask designers for (UX, service, product, AI and agents) | Weekly |
+| **Skills Thermometer** | Which skills Melbourne job ads ask designers for (UX, service, product, AI and agents) | Monthly (last Friday) |
 
 Each scout **decides its own steps**: where to look, what matters, what to skip.
 They only **read the public web and write to this repo**. They never post or send anything. They draft, I decide.
